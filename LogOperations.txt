@@ -1,0 +1,17 @@
+ === Script started at Mon Jun  2 11:40:13 CEST 2025 ===
+First.txt already exists, skipping creation.
+Second.txt already exists, skipping creation.
+Third.txt already exists, skipping creation.
+Adding content to first file
+Adding content to second file
+Adding content to third file
+Searching for keyword in all files...
+First.txt:adsgafdafafvadfafd
+grep: LogOperations.txt: input file is also the output
+Second.txt:Apple Banana vad Birne Grapefruit
+Listing all current .txt files
+-rwxrwxrwx 1 boti boti  31 Jun  2 11:40 First.txt
+-rwxrwxrwx 1 boti boti 479 Jun  2 11:40 LogOperations.txt
+-rwxrwxrwx 1 boti boti  34 Jun  2 11:40 Second.txt
+-rwxrwxrwx 1 boti boti  32 Jun  2 11:40 Third.txt
+=== Script Finished at Mon Jun  2 11:40:13 CEST 2025 ===

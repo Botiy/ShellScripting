@@ -1,0 +1,8 @@
+=== Cut Script Started at Tue Jun  3 13:07:37 CEST 2025 ===
+Input file people.csv exists. Processing...
+Extracting Name and City from people.csv...
+Result:
+Name,City
+Alice,Paris
+Bob,London
+=== Cut Script Finished at Tue Jun  3 13:07:37 CEST 2025 ===

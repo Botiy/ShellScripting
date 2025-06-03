@@ -1,0 +1,35 @@
+=== Script started at Tue Jun  3 12:51:49 CEST 2025 ===
+Created and moved into MyWorkspace directory
+Created subdirectories and files
+Listing with ls -l:
+total 0
+drwxrwxrwx 1 boti boti 4096 Jun  3 12:51 Backups
+drwxrwxrwx 1 boti boti 4096 Jun  3 12:51 Docs
+drwxrwxrwx 1 boti boti 4096 Jun  3 12:51 Images
+Listing all files (including hidden) with ls -a:
+.
+..
+Backups
+Docs
+Images
+Listing with human-readable sizes:
+total 0
+drwxrwxrwx 1 boti boti 4.0K Jun  3 12:51 Backups
+drwxrwxrwx 1 boti boti 4.0K Jun  3 12:51 Docs
+drwxrwxrwx 1 boti boti 4.0K Jun  3 12:51 Images
+Copied and renamed files
+Removed file and empty directory
+Final listing of working directory:
+.:
+total 0
+drwxrwxrwx 1 boti boti 4096 Jun  3 12:51 Backups
+drwxrwxrwx 1 boti boti 4096 Jun  3 12:51 Images
+
+./Backups:
+total 0
+-rwxrwxrwx 1 boti boti 0 Jun  3 12:51 Report_backup.txt
+
+./Images:
+total 0
+-rwxrwxrwx 1 boti boti 0 Jun  3 12:51 VacationPhoto.png
+=== Script finished at Tue Jun  3 12:51:49 CEST 2025 ===
